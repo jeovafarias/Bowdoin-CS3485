@@ -1,10 +1,18 @@
-// theme #1
-$primary-color:  #0077CC;
-$accent-color: #f66733;
-$title-color: #522d80;
-$header-text-color: #fff;
-$header-color: #336699;
-$header-background-opacity: 0.5;
+$my-blue: #2a5082;
+$my-green: #88deaa;
+$my-red: #ff8080;
+$my-gray: #5A5A5A;
+
+$primary-color:  $my-blue; 
+$accent-color: $my-blue;
+$title-color: $my-blue; 
+$header-text-color: $my-gray;
+$header-title-color: $my-blue;
+$header-color: #fff; 
+$header-background-opacity: .3;
+
+
+
 
 // // theme #2
 // $primary-color:  #c3073f;

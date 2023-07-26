@@ -4,17 +4,15 @@ title: Materials
 permalink: /materials/
 ---
 
-{% include image.html url="/_images/cover2.jpg" width=175 align="right" %}
+{% include image.html url="/_images/book.jpg" width=175 align="right" %}
 
 ## Book
 
-Alan Turing and Noam Chomsky: Very Famous Book
+**Modern Computer Vision with PyTorch**, by V Kishore Ayyadevara and Yeshwanth Reddy.
+Packt Publishing Ltd, 2020.
 
 ## Additional Course Materials
 
-* If you are not familiar with Python programming, use any online tutorial to get a handle of it.
-* [Material #1](http://www.example.com/): how a computer chess player thinks!
-* [Material #2](http://www.example.com/): how a computer chess player thinks!
-* [Material #3](http://www.example.com/): how a computer chess player thinks!
-* [Material #4](http://www.example.com/): how a computer chess player thinks!
-* [Material #5](http://www.example.com/): how a computer chess player thinks!
+* [Latex Tutorial](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes): you'll need Latex for most of the assigments! I suggets you use [Overleaf](www.overleaf.com) and an latex template from a sceintific journal (like [this one](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-small-standard-format-template/sksvmbxyfhnw)).
+* [Pytorch Tutorial](https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models/): In case you need anothe resource.
+

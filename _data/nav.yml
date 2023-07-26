@@ -2,6 +2,10 @@ items:
 - url: /
   name: Home
   icon_class: fa fa-home fa-lg
+  
+- url: /static_files/Syllabus.pdf
+  name: Syllabus
+  icon_class: fas fa-list-alt
 
 - url: /schedule/
   name: Schedule
@@ -17,8 +21,9 @@ items:
 
 - url: /project/
   name: Project
-  icon_class: fas fa-user-graduate
+  icon_class: fas fa-project-diagram
 
 - url: /materials/
   name: Materials
   icon_class: fas fa-book
+  

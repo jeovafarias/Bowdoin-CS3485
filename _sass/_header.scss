@@ -12,7 +12,8 @@
 
 .header-texture {
     opacity: $header-background-opacity;
-    filter: invert($header-background-invert);
+    // filter: invert($header-background-invert);
+    color: #fff
 }
 
 .site-title, .site-title a {
@@ -24,10 +25,10 @@
     float: left;
     font-weight: 500;
 		font-family: 'Titillium Web', sans-serif;
-    color: $header-text-color;
+    color: $header-title-color;
     &,
     &:visited {
-        color: $header-text-color;
+        color: $header-title-color;
     }
     &,
     &:hover {
@@ -151,7 +152,7 @@ z-index:999;
 
 
 .site-nav {
-    float: right;
+    float: initial;
     line-height: 40px;
 
 
@@ -187,7 +188,7 @@ z-index:999;
             width: 36px;
             height: 26px;
             line-height: 0;
-            padding-top: 10px;
+    padding-top: 100px;
             text-align: center;
 
             > svg {

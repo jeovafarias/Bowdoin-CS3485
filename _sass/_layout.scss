@@ -196,7 +196,7 @@ h1 /* .post-title */ {
 
     h2 {
 		font-family: 'Titillium Web', sans-serif;
-	font-weight: 500;
+        font-weight: 500;
 /*        font-size: 32px; */
 
         @include media-query($on-laptop) {
@@ -269,19 +269,20 @@ ul#archive li {
        border-bottom: #999 1px dotted;
        padding: .1em 0 .1em .5em;
        background: #fff;
+       color: $my-gray;
 }
 
 ul#archive  h2 {
 	padding-top: .5em }
 
 ul#archive li.alt {
-       background: #f6f6f6;
+       background: red;
 }
 
 .archiveposturl {
        display: block;
 
-       color: #333;
+       color: red;
 }
 
 .archiveposturl:hover {
@@ -289,7 +290,7 @@ ul#archive li.alt {
 }
 
 ul#archive li span a {
-       color: $clemson-purple;
+       color: $my-blue;
 	font-weight: bold;
 font-family: 'Titillium Web', sans-serif;
 }

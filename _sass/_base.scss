@@ -289,17 +289,37 @@ a.tosu {
         border-style: solid;
         border-bottom: none;
     }
+    
+    .table-row-final_pres {
+        border-color: $my-blue;
+        border-width: .2em;
+        border-style: solid;
+        background-color: $my-blue;
+        color: white;
+    }
+    
+    .table-row-break {
+        border-color: $my-red;
+        border-width: .2em;
+        border-style: solid;
+    }
+
 
     .table-row-assignment {
         background-color: #d9edf7;
     }
 
     .table-row-due {
-        background-color: #FCF8E5;
+        background-color: #cae3d4;
     }
 
     .table-row-exam {
         background-color: #f2dede;
+    }
+    
+    
+    .table-row-review {
+        background-color: #cae3d4;
     }
 
     .col-1 {
@@ -426,7 +446,7 @@ a.tosu {
     margin-bottom: 20px;
     border: 1px solid transparent;
     border-radius: 4px;
-    background-color: #fcf8e3;
+    background-color: $my-red;
     border-color: #faebcc;
 }
 
