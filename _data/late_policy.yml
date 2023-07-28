@@ -1,4 +1,6 @@
 policies:
-  - You have free 4 late days.
-  - You can use late days for assignments. A late day extends the deadline 24 hours.
+  - You have free <b>4 late days over all</b>.
+  - You can use as many late days for assignments as you want. A late day extends the deadline 24 hours.
   - Once you have used all 4 late days, the penalty is 20% for each additional late day.
+  - In case of medical or other personal emergencies, further extensions can be approved. Conatct the instructor in that case.
+  - Other accomondations may be accepted, but only if communicated directly to the instructor at least <b>2 in advance from the deadline</b>.
