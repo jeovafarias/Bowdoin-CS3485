@@ -5,7 +5,7 @@ course_semester: "Fall 2023"
 pre_requisites: Basics of Multivariate Calculus and Linear Algebra.
 
 
-baseurl: "/DeepLearning4CV-F2023" # the subpath of your site, e.g. /blog/
+baseurl: "/Bowdoin-CS3485-F23" # the subpath of your site, e.g. /blog/
 url: "jeovafarias.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Bowdoin College"
