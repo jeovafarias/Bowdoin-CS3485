@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-09-18
+date: 2023-09-20
 title: Lec6 - Convolutional Neural Networks
 tldr: "Convolution operation, Representation Learning with CNNs"
 thumbnail: /static_files/presentations/lec6.png

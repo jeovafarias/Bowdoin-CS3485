@@ -5,5 +5,5 @@ name: Review
 description: First Review Session
 hide_from_announcments: true
 ---
-**Bring your questions!**
+Held during lecture hours. Attendance is optional. Instructor will be there to answer questions. **Bring your questions!**
 

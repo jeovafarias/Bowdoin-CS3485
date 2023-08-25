@@ -24,11 +24,17 @@ title: page.title
       [<a href="{{ page.solutions | prepend: site.baseurl }}">solutions</a>]
       {% endif %}
     </p>
-
+    
     <div style="color: gray;">
-      <h3>Late Policy</h3>
+      <h3>Work Submission Policy:</h3>
+      {% include hw_submission_policy.html %}
+    </div>
+    
+    <div style="color: gray;">
+      <h3>Late Policy:</h3>
       {% include late_policy.html %}
     </div>
+
   </div>
 
   <br />
