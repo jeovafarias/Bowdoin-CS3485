@@ -5,4 +5,4 @@ description: 'Midterm Exam'
 hide_from_announcments: true
 ---
 **Topics:**
-All the material covered from Lec1 until Lec8.
+All the material covered from Lec1 until Lec9.
