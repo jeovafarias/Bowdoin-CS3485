@@ -6,4 +6,6 @@ tldr: "Localization and  Detection tasks, Naive Detection, RCNN"
 thumbnail: /static_files/presentations/lec11.png
 hide_from_announcments: false
 links:
+    - url: /static_files/presentations/Lec 11 Intro to Object Detection.pdf
+      name: slides
 ---
