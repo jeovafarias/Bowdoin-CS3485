@@ -6,4 +6,7 @@ tldr: "Fast and Faster RCNN and YOLO"
 thumbnail: /static_files/presentations/lec12.png
 hide_from_announcments: false
 links:
+links:
+    - url: /static_files/presentations/Lec 12 Fast Object Detection.pdf
+      name: slides
 ---
