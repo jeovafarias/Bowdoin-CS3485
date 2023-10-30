@@ -6,4 +6,6 @@ tldr: "Autoencoders and the tasks in CV that can be solved with them."
 thumbnail: /static_files/presentations/lec15.png
 hide_from_announcments: false
 links:
+    - url: /static_files/presentations/Lec 15 Autoencoders.pdf
+      name: slides
 ---
