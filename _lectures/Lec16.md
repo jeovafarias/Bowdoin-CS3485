@@ -6,6 +6,6 @@ tldr: "Simple Generative Adversarial Networks and DCGAN"
 thumbnail: /static_files/presentations/lec16.png
 hide_from_announcments: false
 links:
-  - url: /static_files/presentations/Lec 16 Image Generation with GANs.pdf
-    name: slides
+    - url: /static_files/presentations/Lec 16 Image Generation with GANs.pdf
+      name: slides
 ---
