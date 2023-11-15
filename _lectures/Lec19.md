@@ -6,6 +6,6 @@ tldr: "Contrastive Learning via CLIP and Stable Diffusion"
 thumbnail: /static_files/presentations/lec19.png
 hide_from_announcments: false
 links:
-    - url: /static_files/presentationsLec 19 Image Generation by Prompt.pdf
+    - url: /static_files/presentations/Lec 19 Image Generation by Prompt.pdf
       name: slides
 ---
