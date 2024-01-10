@@ -1,19 +1,17 @@
 # Site settings
-course_name: Deep learning for Computer Vision
+course_name: ResidenciaTICBrisa
 course_description: "Computer Vision has become ubiquitous in our society, image searches to self-driving cars. On the other hand, Deep learning has shaken the world of artificial intelligence in recent years. Most of these developments greatly advanced the performance of state-of-the-art visual recognition systems, which put Computer Vision at the epicenter of most technological progress from the past decade. In this context, this course aims at providing a consistent exploration of how deep learning started to its most recent achievements, always using Computer Vision tasks as their main application, historically or practically. During the course, we'll also understand many of the main computer vision problems and use them as cases for the introduction of various deep learning related problems. Finally, this course hopes to give students working knowledge of PyTorch, one of the main deep learning frameworks, and prepare them for future industrial and academic careers in the field."
 course_semester: "Fall 2023"
 pre_requisites: Basics of Multivariate Calculus and Linear Algebra.
 
 
-baseurl: "/Bowdoin-CS3485-F23" # the subpath of your site, e.g. /blog/
-url: "jeovafarias.github.io/" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "ResidenciaTICBrisa.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Bowdoin College"
-schoolurl: "https://bowdoin.edu"
-twitter_username: BowdoinCollege 
+schoolname: "uNb"
 
 address: |
-    Bowdoin College
+    UnB
     Department of Computer Science,
     255 Maine Street, 
     Brunswick, Maine 04011
