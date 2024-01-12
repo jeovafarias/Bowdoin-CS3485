@@ -3,17 +3,14 @@
  */
 html:not([data-scroll='0']) {
     .site-header {
-        transition: opacity 0.5s;
-        &:hover { 
-            opacity: 1;
-        }
-        opacity: 0.5;
+        transition: background-color 0.5s;
+        background-color: $clemson-purple;
     }
 }
 .site-header {
     // border-top: 0px solid $grey-color-dark;
 	// border-bottom: 2px solid $clemson-orange;
-    background-color: $clemson-purple;
+    background-color: #00000000;
     // Positioning context for the mobile navigation icon
     position: fixed;
     left: 0;

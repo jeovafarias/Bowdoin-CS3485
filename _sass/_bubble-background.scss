@@ -156,7 +156,8 @@
     position: absolute;
     background: radial-gradient(circle at center, rgba(49, 133, 252, 0.8) 0, rgba(49, 133, 252, 0) 50%) no-repeat;
     mix-blend-mode: $blending;
-
+    transform: 0;
+    
     width: 100%;
     height: 100%;
     top: -50%;
