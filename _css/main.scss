@@ -33,6 +33,18 @@ $content-width:    950px;
 $on-palm:          600px;
 $on-laptop:        950px;
 
+// $color-bg1: rgb(177, 192, 255);
+$color-bg1: rgb(255, 255, 255);
+$color-bg2: rgb(255, 255, 255);
+$color1: 184, 242, 230;
+$color2: 204, 213, 255;
+$color3: 0, 232, 252;
+$color4: 231, 187, 227;
+$color5: 10, 129, 209;
+$color-interactive: 49, 133, 252;
+$circle-size: 60%;
+$blending: hard-light;
+
 
 
 // Using media queries with like this:
@@ -57,6 +69,7 @@ $on-laptop:        950px;
         "base",
         "layout",
         "syntax-highlighting",
-	    "fancy-image"
+	    "fancy-image",
+        "bubble-background"
 ;
 
