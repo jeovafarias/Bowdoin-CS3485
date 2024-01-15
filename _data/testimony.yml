@@ -1,10 +1,10 @@
 items:
-  - body: "10/10"
-    author: Carla Rocha
-    photo: /.github/_images/testimony/carla.jpg
-  - body: "Feito melhor que perfeito"
-    author: Carla Rocha
-    photo: /.github/_images/testimony/carla.jpg
-  - body: "Feito melhor que perfeito"
-    author: Carla Rocha
-    photo: /.github/_images/testimony/carla.jpg
+  - body: " tive a oportunidade de ampliar meus horizontes ao atuar como Community Manager, explorando uma área na qual nunca havia mergulhado anteriormente."
+    author: Caio Vitor 
+    photo: /.github/_images/testimony/Caio_vitor.png
+  - body: "enriquecendo meu conhecimento técnico e aprimorando minha capacidade de enfrentar futuros desafios com confiança e eficiência."
+    author: Raquel Eucaria
+    photo: /.github/_images/testimony/Raquel_Eucaria.png
+  - body: "aprofundei meus conhecimentos em desenvolvimento tanto no frontend quanto no backend, empregando tecnologias como React e Python de maneira conjunta."
+    author: Fause Carlos 
+    photo: /.github/_images/testimony/Fause_Carlos.png
