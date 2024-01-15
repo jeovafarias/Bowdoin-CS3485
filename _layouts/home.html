@@ -2,62 +2,7 @@
 layout: home-layout
 ---
 
-<div class="home">
 
-    <!--<h1>{{ site.course_name }} <span style="font-size: 20px;color: #0006;">/ {{ site.course_semester }} </span></h1> -->
-    
-    <!--
-    {% include announcements.html %}
-    -->
-
-
-    <h1>Projeto Residência em TIC da BRISA</h1>
-    <h2>UnB FGA</h2>
-
-    <h1>Course Description</h1>
-    <p>{{ site.course_description }}</p>
-    
-    {{ content }}
-
-    {% if site.data.previous_offering and site.data.previous_offering.offerings and site.data.previous_offering.offerings.size > 0 %}
-    <h1>Previous Offerings</h1>
-    <ul class="previous-offerings">
-    {% for offer in site.data.previous_offering.offerings %}
-    <li><a href="{{ offer.url }}">{{offer.title}}</a></li>
-    {% endfor %}
-    </ul>
-    {% endif %}
-    
-    <br>
-    
-    <h1>Pre-requisites</h1>
-    <p>{{ site.pre_requisites }}</p>
-    
-    <br>
-    <div>
-        <div style="width:35%; float: left">
-            <div class="profile-pic-gallary ">
-                <h1>Instructor</h1>
-                {% for ins in site.data.people.instructors %}
-                <div class="image--cover-container">
-                    <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
-                    {% if ins.webpage %}
-                    <p><a href="{{ ins.webpage }}">{{ins.name}}</a></p>
-                    {% else %}
-                    <p>{{ins.name}}</p>
-                    {% endif %}
-                </div>
-                {% endfor %}
-            </div>
-        </div>
-        
-        <div style="width:65%; float: right">
-            <h1>Course Details</h1>
-            <strong> When/Where: </strong> </br> Mondays and Wednesdays from 11:45a to 1:10p at Searles 126 and at this <a href="https://bowdoin.zoom.us/s/4942888823#success"> Zoom link </a> (available when asked)<br>
-            <strong> Office Hours: </br> </strong> Monday and Wednesday from 4:30-5:30p at Searles 121.
-        </div>
-    </div>
-
-
-    
-</div>
+{% include last_editions.html  %}
+{% include institutions.html  %}
+{% include testimony.html  %}
