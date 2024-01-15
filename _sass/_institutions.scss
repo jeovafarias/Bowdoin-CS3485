@@ -1,0 +1,33 @@
+.institutions-wrapper {
+    padding: 30px 12%;
+    background-color: #1f285f;
+
+    display: flex;
+    align-items: center;
+}
+
+.institutions-text-wrapper {
+    width: 20%;
+    padding: 0px 40px;
+    margin-right: 40px;
+
+    .section-title {
+        color: white;
+        margin: 0;
+        font-size: 35px;
+        font-weight: 600;
+    }
+}
+
+
+.institutions-image-wrapper {
+    padding: 0px 40px;
+    width: 80%;
+    
+    display: flex;
+    justify-content: space-between;
+    
+    .image-institutions-effect {
+        filter: brightness(0) invert(1);
+    }
+}
