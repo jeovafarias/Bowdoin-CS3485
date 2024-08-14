@@ -1,12 +1,9 @@
 ---
 type: lecture
-date: 2023-09-13
-title: Lec5 - Pytorch
-tldr: "Tensors, AutoDiff, MLP in Pytorch, MNIST"
+date: 2024-09-17
+title: Lec5 - Pytorch I – MLPs
+tldr: "Tensors, AutoDiff, MLP in Pytorch"
 thumbnail: /static_files/presentations/lec5.png
 hide_from_announcments: false
-links:
-    - url: /static_files/presentations/Lec5 PyTorch.pdf
-      name: slides
 ---
 

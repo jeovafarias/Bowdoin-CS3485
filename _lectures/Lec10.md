@@ -1,11 +1,9 @@
 ---
 type: lecture
-date: 2023-10-11
-title: Lec10 - Adversarial Examples and Self-supervision
-tldr: "Ways to break networks' results and learn without labels"
+date: 2024-10-03
+title: Lec10 - Inception Net and what CNNs learn
+tldr: "Branching Nets, 1x1 convolution, Inception, Deep Dream"
 thumbnail: /static_files/presentations/lec10.png
 hide_from_announcments: false
-links:
-    - url: /static_files/presentations/Lec10 Adversarial Examples and Self-supervision.pdf
-      name: slides
 ---
+
