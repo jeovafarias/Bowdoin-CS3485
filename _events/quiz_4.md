@@ -1,6 +1,6 @@
 ---
 type: exam
-date: 2024-10-03
+date: 2025-02-20
 description: 'Quiz 4'
 hide_from_announcments: true
 ---
