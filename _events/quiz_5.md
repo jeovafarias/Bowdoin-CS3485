@@ -5,4 +5,4 @@ description: 'Quiz 5'
 hide_from_announcments: true
 ---
 **Topics:**
-Material covered from Lec10, Lec11 and Lec12.
+Material covered from Lec10 and Lec11.
