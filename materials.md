@@ -12,6 +12,7 @@ permalink: /materials/
 
 ## Math and ML Background
 * Stanford's preliminary docs in [Linear Algebra](https://stanford-cs221.github.io/autumn2024-extra/modules/prerequisites/linear-algebra.pdf) and [Calculus](https://stanford-cs221.github.io/autumn2024-extra/modules/prerequisites/vector-calculus.pdf).
+* William's preliminary docs in [Linear Algebra and Calculus](https://mhrmm.github.io/#/dlamp1)
 * [Machine Learning Mastery](https://machinelearningmastery.com/): Great resource for anything ML, including a page on [Linear Algebra for ML](https://machinelearningmastery.com/linear-algebra-machine-learning/).
 * [The Hundred-Page Machine Learning Book](http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf): Great crash course in ML (the title says it all).
 
