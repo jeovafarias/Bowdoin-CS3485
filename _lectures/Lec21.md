@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-04-15
+date: 2026-04-14
 title: Lec21 - Transformers and ChatGPT
 tldr: "Dive into the transformer architecture, its use in CV and in ChatGPT."
 thumbnail: /static_files/presentations/lec21.png

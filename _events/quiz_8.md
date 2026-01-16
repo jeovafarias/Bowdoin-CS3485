@@ -1,6 +1,6 @@
 ---
 type: exam
-date: 2025-04-03
+date: 2026-04-02
 description: 'Quiz 8'
 hide_from_announcments: true
 ---

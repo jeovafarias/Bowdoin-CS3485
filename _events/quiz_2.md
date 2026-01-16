@@ -1,6 +1,6 @@
 ---
 type: exam
-date: 2025-02-06
+date: 2026-02-05
 description: 'Quiz 2'
 hide_from_announcments: true
 ---

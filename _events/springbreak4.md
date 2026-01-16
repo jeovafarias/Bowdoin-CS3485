@@ -1,6 +1,6 @@
 ---
 type: break
-date: 2025-03-20
+date: 2026-03-19
 description: <strong>SPRING BREAK!</strong>
 hide_from_announcments: true
 ---

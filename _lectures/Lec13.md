@@ -1,11 +1,11 @@
 ---
 type: lecture
-date: 2025-03-04
+date: 2026-03-03
 title: Lec13 - Intro to Object Detection
 tldr: "Localization and  Detection tasks, Naive Detection, RCNN"
 thumbnail: /static_files/presentations/lec13.png
 hide_from_announcments: false
-links:
+<!--links:
     - url: /static_files/presentations/Lec13_ Intro to Object Detection.pdf
-      name: slides
+      name: slides-->
 ---

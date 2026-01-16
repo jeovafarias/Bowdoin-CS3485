@@ -3,10 +3,10 @@ instructors:
     profile_pic: /_images/pp/me.jpg
     webpage: https://jeovafarias.github.io/
 
-teaching_assistants:
- - name: Vaishali Miriyagalla
-   profile_pic: /_images/pp/vaishali.jpg
-   webpage: mailto:vmiriyagalla@bowdoin.edu
+# teaching_assistants:
+#  - name: Vaishali Miriyagalla
+#    profile_pic: /_images/pp/vaishali.jpg
+#    webpage: mailto:vmiriyagalla@bowdoin.edu
 
 #  - name: Hermione Granger
 #    profile_pic: /_images/pp/granger.jpg

@@ -1,6 +1,6 @@
 ---
 type: guestlecture
-date: 2025-04-24
+date: 2026-04-23
 description: Guest No. 1
 hide_from_announcments: true
 ---
