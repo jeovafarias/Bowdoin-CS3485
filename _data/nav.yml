@@ -15,6 +15,10 @@ items:
   name: Lectures
   icon_class: fas fa-book-reader
 
+- url: /aipolicy/
+  name: AI Policy
+  icon_class: fas fa-laptop
+
 - url: /assignments/
   name: Assignments
   icon_class: fas fa-user-graduate
