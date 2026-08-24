@@ -1,8 +1,8 @@
 ---
 type: exam
-date: 2026-03-26
+date: 2026-10-29
 description: 'Quiz 7'
 hide_from_announcments: true
 ---
 **Topics:**
-Material covered from Lec14 and Lec15.
+Material covered from Lec16 and Lec16.

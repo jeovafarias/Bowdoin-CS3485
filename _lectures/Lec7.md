@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-02-10
+date: 2026-09-22
 title: Lec7 - Convolutional Neural Networks
 tldr: "Convolution operation, Representation Learning with CNNs"
 thumbnail: /static_files/presentations/lec7.png

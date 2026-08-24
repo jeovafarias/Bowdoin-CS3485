@@ -1,6 +1,6 @@
 ---
 type: projectwork
-date: 2026-04-30
+date: 2026-12-08
 description: Work on final projects.
 hide_from_announcments: true
 ---

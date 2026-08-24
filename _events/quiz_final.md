@@ -1,6 +1,6 @@
 ---
 type: exam
-date: 2026-04-21
+date: 2026-11-19
 description: 'Final Quiz'
 hide_from_announcments: true
 ---

@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-02-12
+date: 2026-09-24
 title: Lec8 - Data Augmentation and Deep CNNs
 tldr: "Data Transferormation and VGG nets"
 thumbnail: /static_files/presentations/lec8.png

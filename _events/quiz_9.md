@@ -1,8 +1,8 @@
 ---
 type: exam
-date: 2026-04-09
+date: 2026-11-12
 description: 'Quiz 9'
 hide_from_announcments: true
 ---
 **Topics:**
-Material covered from Lec18 and Lec19.
+Material covered from Lec19 and Lec20.

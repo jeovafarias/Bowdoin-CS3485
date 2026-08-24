@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-02-17
+date: 2026-09-29
 title: Lec9 - Transfer Learning and Residual Nets
 tldr: "Transfer Learning/Fine Tunning with VGG and Resnets"
 thumbnail: /static_files/presentations/lec9.png
